@@ -1,0 +1,2 @@
+Minhas Finanças iPhone V2
+Publique index.html, manifest.json, sw.js e icon.png juntos em hospedagem estática HTTPS (por exemplo GitHub Pages). Abra o endereço no Safari, Compartilhar > Adicionar à Tela de Início. Após carregar online, pode funcionar offline. Dados ficam no armazenamento local do aplicativo, sem login ou sincronização. Faça backups JSON regularmente. Não publique backups. Não há migração automática do SQLite da V1.
